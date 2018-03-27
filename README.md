@@ -15,4 +15,5 @@ Marzipano : http://www.marzipano.net
 - Make website tour 360
 - The tool generates a virtual tour from a set of panoramas and allows you to export it as web application that can be deployed as-is or used as a boilerplate for more advanced projects. Requires Firefox or Chrome.
  Final
-Final
+FinalFinal
+Finish
