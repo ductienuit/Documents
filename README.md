@@ -24,3 +24,5 @@ Marzipano : http://www.marzipano.net
 Image Map in website : http://www.outsharked.com/imagemapster/
 
 SweetAlert: http://sweetalert.js.org
+
+Font Roboto: https://github.com/FontFaceKit/roboto
