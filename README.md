@@ -26,3 +26,4 @@ Image Map in website : http://www.outsharked.com/imagemapster/
 SweetAlert: http://sweetalert.js.org
 
 Font Roboto: https://github.com/FontFaceKit/roboto
+GUI JFoenix: https://github.com/jfoenixadmin/JFoenix
